@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "emp_id": "emp01",
+        "name": "",
+        "mobile_number": "",
+        "email_address": "",
+        "department": "",
+        "salary": ""
+    },
+    {
+        "id": 2,
+        "emp_id": "emp02",
+        "name": "",
+        "mobile_number": "",
+        "email_address": "",
+        "department": "",
+        "salary": ""
+    },
+    {
+        "id": 3,
+        "emp_id": "emp03",
+        "name": "",
+        "mobile_number": "",
+        "email_address": "",
+        "department": "",
+        "salary": ""
+    },
+    {
+        "id": 4,
+        "emp_id": "emp04",
+        "name": "",
+        "mobile_number": "",
+        "email_address": "",
+        "department": "",
+        "salary": ""
+    },
+    {
+        "id": 5,
+        "emp_id": "emp05",
+        "name": "",
+        "mobile_number": "",
+        "email_address": "",
+        "department": "",
+        "salary": ""
+    },
+    {
+        "id": 6,
+        "emp_id": "emp06",
+        "name": "",
+        "mobile_number": "",
+        "email_address": "",
+        "department": "",
+        "salary": ""
+    }
+]
